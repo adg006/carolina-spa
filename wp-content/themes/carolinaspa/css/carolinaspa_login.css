@@ -1,0 +1,53 @@
+body {
+	background: url('../images/bg.jpg') no-repeat center center/cover;
+}
+
+.login h1 a {
+	background-image: url('../images/logo.png');
+	margin: 0;
+	width: 100%;
+	background-size: 200px;
+	height: 120px;
+}
+
+.login label {
+	color: #000;
+}
+
+.login #backtoblog a, 
+.login #nav a,
+.login #backtoblog a:hover, 
+.login #nav a:hover {
+	color: #fff;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.login #backtoblog, 
+.login #nav {
+	text-align: center;
+}
+
+.login .button-primary,
+.login .button-primary:active,
+.login .button-primary:focus {
+	background-color: #8ed4cc;
+	border: none;
+	text-shadow: none;
+	box-shadow: none;
+	border-radius: 0;
+	padding: 10px 30px!important;
+	height: auto!important;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.login .button-primary:hover {
+	background-color: #75bbb3!important;
+}
+
+.login form {
+	-webkit-box-shadow: 0 35px 53px -17px rgba(0, 0, 0, 0.79);
+	-moz-box-shadow: 0 35px 53px -17px rgba(0, 0, 0, 0.79);
+	box-shadow: 0 35px 53px -17px rgba(0, 0, 0, 0.79);
+}

@@ -1,0 +1,2 @@
+2023-03-17T19:19:27+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 32768 bytes) in C:\xampp\htdocs\project\php\wordpress\carolina_spa\wp-content\plugins\advanced-custom-fields\includes\fields\class-acf-field-checkbox.php on line 1
+

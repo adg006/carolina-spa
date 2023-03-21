@@ -1,0 +1,235 @@
+# Copyright (C) 2021 Kliken
+# This file is distributed under the GNU General Public License v3.0.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Powered Marketing\n"
+"Report-Msgid-Bugs-To: https://www.kliken.com/contact-us.html\n"
+"POT-Creation-Date: 2022-12-08 16:58-0500\n"
+"PO-Revision-Date: 2022-12-08 09:54-0500\n"
+"Last-Translator: SiteWit <wordpress@sitewit.com>\n"
+"Language-Team: SiteWit <wordpress@sitewit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n !=\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-WPHeader: kliken-marketing-for-google.php\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#. Plugin Name of the plugin/theme
+#: classes/class-helper.php:376 classes/class-helper.php:471
+#: classes/class-plugin.php:58 classes/class-plugin.php:282
+#: classes/class-plugin.php:293 classes/class-wc-integration.php:25
+#: pages/dashboard.php:13 pages/getstarted.php:28
+msgid "AI Powered Marketing"
+msgstr ""
+
+#. translators: %s: Plugin name. %s: A hyperlink. Do not translate.
+#: classes/class-helper.php:465
+#, php-format
+msgid ""
+"<strong>%s plugin is almost ready.</strong> <a href=\"%s\">Click here</a> to "
+"get started."
+msgstr ""
+
+#. translators: %s: Plugin name. Do not translate.
+#: classes/class-plugin.php:57
+#, php-format
+msgid "%s plugin can only be called once."
+msgstr ""
+
+#: classes/class-plugin.php:128
+msgid "Dashboard"
+msgstr ""
+
+#: classes/class-plugin.php:131
+msgid "Support"
+msgstr ""
+
+#: classes/class-plugin.php:214
+msgid "This will dismiss the message permanently. Are you sure?"
+msgstr ""
+
+#. translators: %s: Plugin name. Do not translate.
+#: classes/class-plugin.php:281
+#, php-format
+msgid "%s requires WooCommerce to be activated."
+msgstr ""
+
+#. translators: %s: Plugin name. %s: Version number of WooCommerce required to run plugin. Do not translate.
+#: classes/class-plugin.php:292
+#, php-format
+msgid "%s requires WooCommerce version %s or greater."
+msgstr ""
+
+#: classes/class-rest-misc-controller.php:63
+#: classes/class-rest-misc-controller.php:91
+msgid "Invalid Data."
+msgstr ""
+
+#: classes/class-rest-misc-controller.php:128
+msgid "Sorry, you cannot list resources."
+msgstr ""
+
+#: classes/class-wc-integration.php:47
+msgid "Account Id"
+msgstr ""
+
+#: classes/class-wc-integration.php:52
+msgid "Application Token"
+msgstr ""
+
+#: classes/class-wc-integration.php:57
+msgid "Google Verification Token"
+msgstr ""
+
+#: classes/class-wc-integration.php:63
+msgid "What are these options?"
+msgstr ""
+
+#: pages/dashboard.php:15 pages/getstarted.php:30
+msgid ""
+"Reach beyond your competition on Google, Facebook and the Open Web, and "
+"unleash the power of your brand with Kliken."
+msgstr ""
+
+#: pages/dashboard.php:27
+msgid "Your store is connected."
+msgstr ""
+
+#: pages/dashboard.php:29
+msgid "Your WooCommerce store is connected to your Kliken account."
+msgstr ""
+
+#: pages/dashboard.php:35
+msgid "Create a New Kliken Ads Campaign"
+msgstr ""
+
+#: pages/dashboard.php:37
+msgid ""
+"Build a Kliken Ads campaign in less than 10 minutes, and start reaching "
+"customers as they search for your products across the Open Web."
+msgstr ""
+
+#: pages/dashboard.php:42
+msgid "Manage Your Kliken Ads Campaigns"
+msgstr ""
+
+#: pages/dashboard.php:44
+msgid ""
+"Make changes to your active campaigns, purchase one you've built, or "
+"reinstate your canceled campaigns."
+msgstr ""
+
+#: pages/dashboard.php:49
+msgid "Kliken Ads Open Web Campaign Dashboard"
+msgstr ""
+
+#: pages/dashboard.php:51
+msgid "See how your ads are performing by visiting your dashboard."
+msgstr ""
+
+#: pages/dashboard.php:58
+msgid "Create a New Google Shopping Campaign"
+msgstr ""
+
+#: pages/dashboard.php:60
+msgid ""
+"Build a campaign in a few minutes, and sell to customers as they search for "
+"your products on Google."
+msgstr ""
+
+#: pages/dashboard.php:65
+msgid "Manage Your Google Campaigns"
+msgstr ""
+
+#: pages/dashboard.php:67
+msgid ""
+"Make changes to your active campaigns, purchase ones you've built, or "
+"reinstate your canceled campaigns."
+msgstr ""
+
+#: pages/dashboard.php:72
+msgid "Google Campaign Dashboard"
+msgstr ""
+
+#: pages/dashboard.php:74
+msgid "Open your dashboard to review your campaign's performance."
+msgstr ""
+
+#: pages/dashboard.php:80
+msgid "Advanced Options"
+msgstr ""
+
+#: pages/dashboard.php:93
+msgid "Enable Edit"
+msgstr ""
+
+#: pages/dashboard.php:94
+msgid "Save Changes"
+msgstr ""
+
+#: pages/dashboard.php:99
+msgid "Authorize API Access"
+msgstr ""
+
+#: pages/getstarted.php:42
+msgid ""
+"Grow your business with the #1 rated advertising extension on WooCommerce"
+msgstr ""
+
+#: pages/getstarted.php:44
+msgid "With Kliken's All-In-One Marketing Solution, you can:"
+msgstr ""
+
+#: pages/getstarted.php:48
+msgid ""
+"Find ideal customers for your store as they are surfing the <strong>web</"
+"strong>, searching on <strong>Google</strong>, or browsing <strong>Facebook</"
+"strong>"
+msgstr ""
+
+#: pages/getstarted.php:58
+msgid ""
+"<strong>Retarget</strong> existing customers and increase your conversion "
+"rates and sales"
+msgstr ""
+
+#: pages/getstarted.php:68
+msgid ""
+"Leverage Fortune 500 advertising power at a small price - <strong>packages "
+"start as low as $5 per day</strong>"
+msgstr ""
+
+#: pages/getstarted.php:78
+msgid "Get Started"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://woo.kliken.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Kliken's all-in-one marketing platform helps business owners reach high-"
+"intent customers, surpass your competition and realize significant growth in "
+"sales, while decreasing conversion costs."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kliken"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kliken.com/"
+msgstr ""

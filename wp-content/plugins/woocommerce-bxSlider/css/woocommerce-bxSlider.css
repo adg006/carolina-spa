@@ -1,0 +1,9 @@
+.shortcode-content .bx-wrapper {
+	width: 100%;
+	max-width: initial!important;
+}
+
+.shortcode-content .bx-wrapper .slider-products h3 {
+	font-size: 1em;
+	font-weight: 700;
+}
